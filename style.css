@@ -1,1 +1,10 @@
-/* Theme Name: My Theme */
+/*
+Theme Name: My Theme
+Author: asaito0320
+Description: 練習用のオリジナルテーマ
+Version: 1.0
+*/
+
+body {
+  background-color: lightblue;
+}
