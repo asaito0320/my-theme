@@ -5,5 +5,8 @@
 </head>
 <body>
     <h1>Hello, my first theme!</h1>
+    <footer>
+        <p>&copy; 2026 My Theme</p>
+    </footer>
 </body>
 </html>
